@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" modified="2023-12-27T17:21:32.501Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="iXqTyusuzUYPMoW2MaAp" version="22.1.11" type="google">
+  <diagram name="Page-1" id="qirBv-HKPvwIPvnJoGgQ">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n0YNYKvRLZyA8Eu1BRSl-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n0YNYKvRLZyA8Eu1BRSl-6" target="n0YNYKvRLZyA8Eu1BRSl-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n0YNYKvRLZyA8Eu1BRSl-6" value="REFINV_" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n0YNYKvRLZyA8Eu1BRSl-7" value="Clasificación_" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="170" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n0YNYKvRLZyA8Eu1BRSl-8" value="r.clasificacion is not null then r.clasificacion_" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n0YNYKvRLZyA8Eu1BRSl-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n0YNYKvRLZyA8Eu1BRSl-9" target="n0YNYKvRLZyA8Eu1BRSl-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n0YNYKvRLZyA8Eu1BRSl-9" value="fecha alta y date es menor a 60 días" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n0YNYKvRLZyA8Eu1BRSl-11" value="RAPIDO 4-5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n0YNYKvRLZyA8Eu1BRSl-12" value="MEDIO 2-3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="230" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n0YNYKvRLZyA8Eu1BRSl-13" value="LENTO ELSE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="270" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n0YNYKvRLZyA8Eu1BRSl-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="n0YNYKvRLZyA8Eu1BRSl-14" target="n0YNYKvRLZyA8Eu1BRSl-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n0YNYKvRLZyA8Eu1BRSl-14" value="clasificacion es nula y ultima venta esta entre los últimos 4 meses" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n0YNYKvRLZyA8Eu1BRSl-15" value="Nuevo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="335" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n0YNYKvRLZyA8Eu1BRSl-16" value="Obsoleto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="435" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n0YNYKvRLZyA8Eu1BRSl-19" value="REFVTA_" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
