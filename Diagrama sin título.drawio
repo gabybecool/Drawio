@@ -4,20 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RzLGPy--Rjvrpz-opvB2-1" value="Dashboard venta de servicio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RzLGPy--Rjvrpz-opvB2-1" value="Dashboard venta de servicio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="330" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RzLGPy--Rjvrpz-opvB2-2" value="SERVTP_" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RzLGPy--Rjvrpz-opvB2-2" value="SERVTP_" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="335" y="140" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RzLGPy--Rjvrpz-opvB2-3" value="SERVTP2_" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RzLGPy--Rjvrpz-opvB2-3" value="SERVTP2_" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="10" y="200" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RzLGPy--Rjvrpz-opvB2-4" value="Puntociudad2_" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RzLGPy--Rjvrpz-opvB2-4" value="Puntociudad2_" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="130" y="200" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RzLGPy--Rjvrpz-opvB2-5" value="Zonales2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="200" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RzLGPy--Rjvrpz-opvB2-6" value="TicketPromOp_" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="200" width="120" height="30" as="geometry" />
@@ -25,7 +22,7 @@
         <mxCell id="RzLGPy--Rjvrpz-opvB2-7" value="FechaVenyaUnica_" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="200" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RzLGPy--Rjvrpz-opvB2-10" value="Directorio_" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RzLGPy--Rjvrpz-opvB2-10" value="Directorio_" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="280" y="200" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RzLGPy--Rjvrpz-opvB2-13" value="SERVTP2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -42,6 +39,12 @@
         </mxCell>
         <mxCell id="RzLGPy--Rjvrpz-opvB2-20" value="Directorio_" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="300" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RzLGPy--Rjvrpz-opvB2-21" value="Directorio2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="285" y="260" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RzLGPy--Rjvrpz-opvB2-22" value="Zonales2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="420" y="200" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
