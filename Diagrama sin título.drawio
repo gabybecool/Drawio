@@ -23,7 +23,7 @@
           <mxGeometry x="-325" y="460" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RzLGPy--Rjvrpz-opvB2-6" value="TicketPromOp_" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="150" width="120" height="30" as="geometry" />
+          <mxGeometry x="-550" y="115" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RzLGPy--Rjvrpz-opvB2-7" value="FechaVentaUnica_" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="165" y="220" width="120" height="30" as="geometry" />
@@ -35,19 +35,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RzLGPy--Rjvrpz-opvB2-13" value="SERVTP2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-530" y="380" width="110" height="30" as="geometry" />
+          <mxGeometry x="-530" y="400" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RzLGPy--Rjvrpz-opvB2-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzLGPy--Rjvrpz-opvB2-16" target="RzLGPy--Rjvrpz-opvB2-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RzLGPy--Rjvrpz-opvB2-16" value="DirectorioTO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-390" y="380" width="110" height="30" as="geometry" />
+          <mxGeometry x="-390" y="400" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RzLGPy--Rjvrpz-opvB2-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzLGPy--Rjvrpz-opvB2-18" target="RzLGPy--Rjvrpz-opvB2-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RzLGPy--Rjvrpz-opvB2-18" value="SERVTPCierre2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="430" width="110" height="30" as="geometry" />
+          <mxGeometry x="-460" y="450" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RzLGPy--Rjvrpz-opvB2-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzLGPy--Rjvrpz-opvB2-19" target="RzLGPy--Rjvrpz-opvB2-4">
           <mxGeometry relative="1" as="geometry">
@@ -76,21 +76,21 @@
           <mxGeometry x="-10" y="260" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RzLGPy--Rjvrpz-opvB2-24" value="TicketPromNal_" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="150" width="110" height="30" as="geometry" />
+          <mxGeometry x="-380" y="115" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RzLGPy--Rjvrpz-opvB2-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzLGPy--Rjvrpz-opvB2-25" target="RzLGPy--Rjvrpz-opvB2-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RzLGPy--Rjvrpz-opvB2-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzLGPy--Rjvrpz-opvB2-25" target="RzLGPy--Rjvrpz-opvB2-24">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-340" y="210" as="targetPoint" />
+            <mxPoint x="-340" y="175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RzLGPy--Rjvrpz-opvB2-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzLGPy--Rjvrpz-opvB2-25" target="RzLGPy--Rjvrpz-opvB2-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RzLGPy--Rjvrpz-opvB2-25" value="TicketPromDist_" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="255" width="110" height="30" as="geometry" />
+          <mxGeometry x="-460" y="220" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RzLGPy--Rjvrpz-opvB2-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="RzLGPy--Rjvrpz-opvB2-25">
           <mxGeometry relative="1" as="geometry">
@@ -104,7 +104,7 @@
         </mxCell>
         <mxCell id="RzLGPy--Rjvrpz-opvB2-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RzLGPy--Rjvrpz-opvB2-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-150" y="260" as="targetPoint" />
+            <mxPoint x="-170" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RzLGPy--Rjvrpz-opvB2-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RzLGPy--Rjvrpz-opvB2-10">
